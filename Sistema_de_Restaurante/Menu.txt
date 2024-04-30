@@ -1,0 +1,12 @@
+1 Bolinho_de_carne_seca................... 30
+2 Canapes................................. 25
+3 Tabua_de_queijos........................ 32
+4 Batata_frita_Curly...................... 28
+5 Salada_italiana......................... 24
+6 Picanha_grelhada_ao_molho_de_ervas...... 50
+7 Espaguete_aos_frutos_do_mar............. 75
+8 Badejo_a_brasileira..................... 45.90
+9 Picadinho_a_Marettimo................... 43
+10 Capeletti_de_búfala_e_alcachofra....... 38
+11 Suco_de_laranja_(500ml)................ 12.00
+12 Coca_lata_(300ml)...................... 8.00
